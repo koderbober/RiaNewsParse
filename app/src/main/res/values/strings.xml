@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RiaNewsParse</string>
+
+    <string name="title_section1">Главное</string>
+    <string name="title_section2">Политика</string>
+    <string name="title_section3">Общество</string>
+    <string name="title_section4">Экономика</string>
+    <string name="title_section5">В мире</string>
+    <string name="title_section6">Происшествия</string>
+    <string name="title_section7">Спорт</string>
+    <string name="title_section8">Наука</string>
+    <string name="title_section9">Культура</string>
+    <string name="title_section10">Радио</string>
+    <string name="title_section11">Религия</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
